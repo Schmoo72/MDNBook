@@ -1,0 +1,145 @@
+Colour
+#4C1BB5
+
+Font
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+CSS
+font-family: 'Montserrat', sans-serif;
+
+Text
+Employment
+2015–2018 : IT Support Officer. Catholic Schools Office Wagga Wagga.
+Improve outcomes for learning through continual review and assessment of service
+delivery practices and strategies that best serve requestors.
+Deliver timely solutions for requestors balancing the competing requirements of
+incoming and current requests using an urgency/impact based priority matrix.
+Plan and execute logistics, scheduling, repair and deployment of IT equipment.
+Maintain functional integration between SAS2000, PHRIS, several identity
+management systems and Google Cloud Identity and Access Management.
+2013–2014 : IT Support Officer. Catholic Schools Office Wagga Wagga.
+Used problem solving skills to effectively deliver solutions for requestors using
+remote monitoring and management software.
+Completed planned tasks and accommodated ad hoc service requests.
+2011–2012 : Geophysicist. Terrabyte Services, Wagga Wagga.
+Analysed and interpreted data in Geographic Information Systems (GIS).
+Reviewed and edited technical report deliverables for consultancies.
+Created high quality maps, scientific illustrations and website content.
+2008–2010 : Technical Officer. Australian School of Petroleum, University of Adelaide.
+Collated, analysed and interpreted GIS data from databases.
+Technical report and website content review, creation and editing.
+2006–2007 : Desktop Support Officer. Information Support Group, School of Information
+Technology & Electrical Engineering, UNSW@ADFA.
+Provided practical support to staff and students in the use of email, the MS Office
+suite, anti-virus and other software.
+Planned the roll-out and maintenance of IT infrastructure.
+2005–2006 : Research Associate. School of Physical, Environmental & Mathematical Sciences,
+UNSW@ADFA.
+As part of a significant consultancy for the ACT Government conducted an RTK GPS
+survey and ArcGIS analysis of forest road networks, road drainage devices and their
+impacts on sedimentation and water quality in the ACT Forestry Estate after the
+January 2003 bushfires.
+Performed GIS and Remote Sensing data collation, analysis and interpretation,
+production of publication standard maps.
+2004–2006 : Teaching Assistant. PEMS, UNSW@ADFA.
+Tutored Remote Sensing, GIS, Field Techniques and GPS Surveying to cadets and
+colleagues.
+Acquired, prepared and tested teaching materials and data from diverse sources.
+2001–2005 : Research Associate. PEMS, UNSW@ADFA.
+Studied the impacts of forestry in NSW and Victoria, also studied the hydrology and
+geomorphology or rivers/floodplains in Queensland, NSW and South Australia.
+Successfully planned and conducted high quality GPS surveys of rivers/floodplains.
+Used ArcGIS to analyse and publish data from large GIS databases and GPS surveys.
+1995–2001 : Technical Officer and recurring Research Assistant positions at ANU, Division of
+Botany and Zoology, CSIRO Division of Soils, and CSIRO Land & Water.
+Performed varied scientific, technical and analytical duties.
+
+Education
+Bachelor of Science (Honours), ANU, 1994. Supervisor: Dr John Kalish.
+Researched, planned and conducted an ecological study of a native fish.
+Analysed results and produced a thesis: Ecology of the western carp gudgeon
+(Hypseleotris klunzingeri) in Lake Burley Griffin.
+
+Selected Publications
+Peer Reviewed Journals:
+Croke, J., Mockler, S., Fogarty, P. and Takken, I. (2005). Sediment concentration changes
+in runoff pathways from a forest road network and the resultant spatial pattern of
+catchment connectivity. Geomorphology, 68 (3), p.257-268.
+Croke, J. and Mockler, S. (2001). Gully initiation and road-to-stream linkage in a forested
+catchment, South-eastern Australia. Earth Surface Processes and Landforms, 26 (2): 205-
+217.
+Published Reports:
+Croke, J., Takken, I. and Mockler, S. (2004). Erosion in Forests: Proceedings of the 4th
+Meeting in Canberra, March 2004. CRC for Catchment Hydrology, Technical Report
+10/04.
+Mockler, S. and Croke, J. (1999). Road to stream connectivity: The relative roles of slope,
+discharge and soil erodibility. In: J. Croke and P. Lane (Eds), Forest management for the
+protection of water quality and quantity. Proceedings of the Second Erosion in Forests
+Workshop, Warburton, May 1999. CRC for Catchment Hydrology, Report 99/6, Monash
+University, pp. 59-62.
+Mockler, S. and Croke, J. (1999). Prescriptive measures for preventing road to stream
+linkage. In: I.D. Rutherfurd and R. Bartley (Eds), Proceedings of the Second Australian
+Stream Management Conference, Adelaide, South Australia, 8-11 February 1999. CRC
+for Catchment Hydrology, pp. 451-7.
+
+References
+Prudence Horan : Assistant Director CSOWW Ph: 0428 357 497
+Karen Gardiner : Schools Services Officer CSOWW Ph: 0428 357 497
+Phillip Baaten : Professional Officer CSOWW Ph: 0428 357 497
+Alan Bowyer : Director of Schools CSOWW (Retired) Ph: 0428 357 497
+
+Competencies
+Operating Systems
+Windows 7/8/10
+Linux (Debian/Ubuntu)
+Data & Systems
+Active Directory
+Apache Studio Directory
+SAS2000
+Dell Boomi
+Azure
+Google Cloud IAM
+Software
+Google Apps for Education
+MS Office
+Kaseya
+Visual Studio Code
+Anaconda Navigator
+ArcView
+ArcGIS
+Code/Scripting
+PowerShell
+GAM
+Google Apps Script
+Python
+Arduino
+JSON
+HTML & CSS
+
+
+Skills
+Problem Solving
+Debug scripts
+Interpret error codes
+Read manuals & FAQs
+Utilise team experience
+Planning
+Brainstorm ideas
+Plan document structure
+Identify errors
+Implement solutions
+Critical Thinking
+Logical
+Analytical
+Perceptive
+Problem Solver
+Innovative
+Rational
+Personal Traits
+Articulate
+Collaborative
+Inclusive
+Professional
+Teachable
+Verbal communication
+Relationship building
